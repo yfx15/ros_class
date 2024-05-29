@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yfx/RoboWare-project/catkin_ws02/devel/setup.sh
